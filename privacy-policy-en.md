@@ -1,11 +1,11 @@
-# Privacy Policy — Sleep Architect
+# Privacy Policy — Sleeply
 
 **Last updated:** May 14, 2026
 **Effective date:** May 14, 2026
 
-This Privacy Policy explains how Sleep Architect ("we", "us", "our") handles your information when you use the Sleep Architect mobile application (the "App") on iOS.
+This Privacy Policy explains how Sleeply ("we", "us", "our") handles your information when you use the Sleeply mobile application (the "App") on iOS.
 
-**TL;DR:** Sleep Architect stores all your data on your device. We do not run any backend servers, we do not have analytics, we do not track you, and we cannot see your data. Audio recorded for snore detection never leaves your iPhone.
+**TL;DR:** Sleeply stores all your data on your device. We do not run any backend servers, we do not have analytics, we do not track you, and we cannot see your data. Audio recorded for snore detection never leaves your iPhone.
 
 ---
 
@@ -72,7 +72,7 @@ Your data is **not** used for advertising, profiling, sale, or sharing with thir
 
 Your data lives on your device until you choose to delete it. To remove all data:
 - Delete the App from your iPhone (this removes the local SwiftData store)
-- Optionally, revoke Apple Health write permission and delete sessions written by Sleep Architect from the Apple Health app
+- Optionally, revoke Apple Health write permission and delete sessions written by Sleeply from the Apple Health app
 
 If you want to remove a specific session, you can do so from the Insights tab (long-press to delete in future versions).
 
@@ -80,13 +80,13 @@ If you want to remove a specific session, you can do so from the Insights tab (l
 
 ## 5. Children's privacy
 
-Sleep Architect is not directed to children under 13. If you are under 13, please do not use the App.
+Sleeply is not directed to children under 13. If you are under 13, please do not use the App.
 
 ---
 
 ## 6. Medical disclaimer
 
-Sleep Architect is a **wellness app, not a medical device**. It does not diagnose, treat, cure, or prevent any disease. Binaural-beat and anti-snore intervention research is preliminary and individual responses vary. If you experience persistent sleep disturbance, loud snoring with pauses in breathing, or any concerning health symptoms, consult a qualified healthcare professional.
+Sleeply is a **wellness app, not a medical device**. It does not diagnose, treat, cure, or prevent any disease. Binaural-beat and anti-snore intervention research is preliminary and individual responses vary. If you experience persistent sleep disturbance, loud snoring with pauses in breathing, or any concerning health symptoms, consult a qualified healthcare professional.
 
 ---
 

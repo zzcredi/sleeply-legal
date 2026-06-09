@@ -1,15 +1,15 @@
-# Terms of Use — Sleep Architect
+# Terms of Use — Sleeply
 
 **Last updated:** May 14, 2026
 **Effective date:** May 14, 2026
 
-Please read these Terms of Use ("Terms") carefully before using Sleep Architect (the "App"). By downloading, installing, or using the App, you agree to be bound by these Terms.
+Please read these Terms of Use ("Terms") carefully before using Sleeply (the "App"). By downloading, installing, or using the App, you agree to be bound by these Terms.
 
 ---
 
 ## 1. The App
 
-Sleep Architect is a wellness mobile application for iOS that provides binaural audio programs, sleep tracking, snore detection, smart alarm, and related features.
+Sleeply is a wellness mobile application for iOS that provides binaural audio programs, sleep tracking, snore detection, smart alarm, and related features.
 
 ## 2. License
 
@@ -17,7 +17,7 @@ We grant you a personal, non-exclusive, non-transferable, revocable license to u
 
 ## 3. Subscription terms
 
-Sleep Architect offers an optional Premium subscription that unlocks additional features.
+Sleeply offers an optional Premium subscription that unlocks additional features.
 
 ### 3.1 Billing
 - Payment is charged to your Apple ID account at confirmation of purchase.
@@ -51,7 +51,7 @@ You agree NOT to:
 
 ## 5. Wellness disclaimer
 
-**Sleep Architect is a wellness app, not a medical device.** The App does not diagnose, treat, cure, mitigate, or prevent any disease or medical condition.
+**Sleeply is a wellness app, not a medical device.** The App does not diagnose, treat, cure, mitigate, or prevent any disease or medical condition.
 
 - Binaural-beat research is preliminary and outcomes vary between individuals.
 - Snore detection is informational. It is not a diagnostic tool for obstructive sleep apnea or any sleep disorder.
@@ -64,7 +64,7 @@ You agree NOT to:
 
 ## 6. Intellectual property
 
-All content, code, designs, audio programs, and exercises included in the App are the property of Sleep Architect or used under license. You may not copy, modify, distribute, sell, or lease any part of the App.
+All content, code, designs, audio programs, and exercises included in the App are the property of Sleeply or used under license. You may not copy, modify, distribute, sell, or lease any part of the App.
 
 ---
 
@@ -93,7 +93,7 @@ We do not warrant that:
 
 ## 9. Limitation of liability
 
-To the maximum extent permitted by law, in no event shall Sleep Architect, its developers, or its affiliates be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of data, loss of profits, or interruption of service, arising from your use of the App.
+To the maximum extent permitted by law, in no event shall Sleeply, its developers, or its affiliates be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of data, loss of profits, or interruption of service, arising from your use of the App.
 
 Our total liability for any claim related to the App shall not exceed the amount you paid for the subscription in the 12 months preceding the claim.
 
